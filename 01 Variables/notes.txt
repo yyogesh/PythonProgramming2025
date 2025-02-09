@@ -1,0 +1,38 @@
+Low level language 101010
+    Machine language
+    Assembly language
+
+High level language
+    General Purpose c, c++, java, python, c#
+    Script language Javascript
+
+
+Code  ==>(Compiler & Inter) Machine
+
+source code ==> compiler => pyc(byte code) ==> interpreter => Machine code
+
+PVM
+
+
+
+
+Function / Procedural language
+
+Object Oriented Programming
+
+Modular Programming 
+
+
+
+Dynamic Types
+
+
+int a = 10;
+
+let b = 10;
+b = "af";
+
+
+c = 10;
+c = "xyz";
+

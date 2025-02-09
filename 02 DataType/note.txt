@@ -1,0 +1,19 @@
+x = 10
+
+x = "asdf"
+
+# class
+
+numeric
+int, float, bool, complex a + ib
+0 - 255
+
+sequence
+list, tuple, string, bytes, bytesAray 
+
+set
+
+dictionary
+name; 'abc'
+
+int x = 10;

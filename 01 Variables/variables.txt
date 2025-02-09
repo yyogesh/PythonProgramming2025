@@ -1,0 +1,16 @@
+data
+
+age = 15;
+age = 50;
+print(age);
+
+
+int i = 0;
+j = 20;
+
+
+int x;
+x = 10;
+
+
+j = 10;
