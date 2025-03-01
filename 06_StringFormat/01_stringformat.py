@@ -64,7 +64,8 @@ print(f"{x + y=}")
 
 pi = 3.14159
 price = 19.99999
-percentage = 0.89665
+percentage = 0.89665 #89.66%
+percentage = 1.896 #189.600000%
 print(f"Pi to 2 decimal places: {pi:.2f}")
 print(f"Price rounded to 2 decimals: {price:.2f}")
 print(f"Percentage with 1 decimal: {percentage:.2%}")
