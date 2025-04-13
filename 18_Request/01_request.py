@@ -4,7 +4,7 @@ import requests
 # python -m pip install requests
 # m for module and pip for package installer
 
-base_url = "https://xyz.com/xyz/xyz/files/mobile/"
+base_url = "https://millenniumbooksindia.com/ebook/L142504/"
 save_folder = "images"
 
 os.makedirs(save_folder, exist_ok=True)
@@ -15,7 +15,7 @@ headers = {
     "User-Agent": "Mozilla/5.0"
 }
 
-for i in range(1, 150):
+for i in range(1, 5):
     image_url = f"{base_url}{i}.jpg"
     print(image_url)
     response = requests.get(image_url, headers=headers)
