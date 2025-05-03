@@ -1,0 +1,6 @@
+Using context manager is safer and cleaner.
+Test User
+Using context manager is safer and cleaner.
+Line 4
+
+
