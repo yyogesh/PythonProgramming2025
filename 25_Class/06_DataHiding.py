@@ -1,6 +1,6 @@
 class Secret:
     def __init__(self):
-        self.__password = "12345"  # Private attribute
+        self.__password = "12345"  # Private attribute #ABC
 
 
 s = Secret()
